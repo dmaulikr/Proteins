@@ -2,7 +2,7 @@
 Swift application. 3D gallery of ligands
 
 Swifty Proteins - Your 3d-science library. Take, Roll, Research 3d-molecules and make pretty shots.
-Use Touch Id or password for authorization. Proteins are arranged in ABC way or you can use search field. Be ready for research 3d model of protein, you can rotate, bring closer and farer, detect names of atoms. For most beautiful composition make shot, sign it and save on your device. 
+Use Touch Id or password for authorization. Proteins are arranged in ABC way or you can use search field. Be ready for research 3d model of protein, you can rotate, scale and detect names of atoms. For most beautiful composition make shot, sign it and save on your device. 
 Enjoy and have fun!
 
 # Technics and components
